@@ -712,7 +712,7 @@ hr {
 }
 .home-area {
   background-color: #111;
-  background-position: center center;
+  background-position: 90%;
   height: 100vh;
   overflow: hidden;
 }
@@ -824,7 +824,7 @@ hr {
 }
 @media (max-width: 575.98px) {
   .home-area {
-    background-position: 62% center;
+    background-position: 74% center;
   }
   .home-area .home-name {
     font-size: 48px;
