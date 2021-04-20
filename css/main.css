@@ -1659,3 +1659,8 @@ hr {
     font-size: 14px;
   }
 }
+
+.one { 
+  list-style-type: disc; 
+}
+    
